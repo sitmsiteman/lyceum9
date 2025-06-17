@@ -1,0 +1,9 @@
+[submodule "glaux"]
+	path = glaux
+	url = https://github.com/alekkeersmaekers/glaux
+[submodule "LSJ_GreekUnicode"]
+	path = LSJ_GreekUnicode
+	url = https://github.com/gcelano/LSJ_GreekUnicode
+[submodule "lexica"]
+	path = lexica
+	url = https://github.com/PerseusDL/lexica
