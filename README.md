@@ -11,6 +11,6 @@ Greek text is from https://github.com/alekkeersmaekers/glaux
 ### Dictionaries
 
 LSJ from https://github.com/gcelano/LSJ_GreekUnicode
+
 Lewis-Short is from https://github.com/PerseusDL/lexica
 Text provided under a CC BY-SA license by Perseus Digital Library, http://www.perseus.tufts.edu, with funding from The National Endowment for the Humanities.
-Data accessed from https://github.com/PerseusDL/lexica/ [date of access].
